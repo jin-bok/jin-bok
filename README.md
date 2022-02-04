@@ -1,2 +1,2 @@
-<img src="https://i.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy-downsized.gif" width="200"/>
+<img src="https://i.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy-downsized.gif" width="500"/>
 
